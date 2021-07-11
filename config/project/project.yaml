@@ -1,0 +1,26 @@
+dateModified: 1625759909
+email:
+  fromEmail: metalmorgoth@gmail.com
+  fromName: 'Craft Dev'
+  transportType: craft\mail\transportadapters\Sendmail
+plugins:
+  code-mirror:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+  developion-core:
+    edition: standard
+    enabled: true
+    schemaVersion: 1.0.0
+system:
+  edition: solo
+  live: true
+  name: 'Craft Dev'
+  schemaVersion: 3.6.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

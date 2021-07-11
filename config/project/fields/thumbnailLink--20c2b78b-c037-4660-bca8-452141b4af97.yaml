@@ -1,0 +1,17 @@
+contentColumnType: string
+fieldGroup: 14c4714f-0eaa-45a8-b373-20c65d99f6e1 # Common
+handle: thumbnailLink
+instructions: ''
+name: 'Thumbnail Link'
+searchable: true
+settings:
+  buttonLink: '#'
+  buttonText: 'Learn More'
+  linkType: url
+  target: false
+  text: null
+  thumbnail: null
+  title: null
+translationKeyFormat: null
+translationMethod: none
+type: Developion\Core\fields\ThumbnailLink
