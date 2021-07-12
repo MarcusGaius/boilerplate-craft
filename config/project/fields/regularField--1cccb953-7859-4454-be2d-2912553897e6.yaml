@@ -1,0 +1,18 @@
+contentColumnType: text
+fieldGroup: 14c4714f-0eaa-45a8-b373-20c65d99f6e1 # Common
+handle: regularField
+instructions: ''
+name: 'Regular Field'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

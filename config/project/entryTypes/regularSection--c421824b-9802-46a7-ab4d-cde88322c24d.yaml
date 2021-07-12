@@ -1,5 +1,5 @@
 fieldLayouts:
-  3de8b0e7-f48f-4029-95a8-6396812546d3:
+  a85c55a0-6a66-427e-a27e-56b9eaca4e0c:
     tabs:
       -
         elements:
@@ -27,7 +27,7 @@ fieldLayouts:
             warning: null
             width: 100
           -
-            fieldUid: 82754f3c-85b4-419a-9e4a-06daa6f69ea8 # test
+            fieldUid: 1cccb953-7859-4454-be2d-2912553897e6 # Regular Field
             instructions: null
             label: null
             required: false
@@ -37,10 +37,10 @@ fieldLayouts:
             width: 100
         name: Content
         sortOrder: 1
-handle: dev
+handle: regularSection
 hasTitleField: true
-name: Dev
-section: 04235b94-7812-404c-a5f7-fe166e6586f5 # Dev
+name: 'Regular Section'
+section: 83b55d2e-e67e-4a94-b1e9-ae144545e0cc # Regular Section
 sortOrder: 1
 titleFormat: null
 titleTranslationKeyFormat: null

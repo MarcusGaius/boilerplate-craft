@@ -1,14 +1,14 @@
 enableVersioning: true
-handle: dev
-name: Dev
+handle: testSection
+name: 'Test Section'
 propagationMethod: all
 siteSettings:
   33bc1f7c-cf69-4e2d-aa65-dfcc22722248: # Craft Dev
     enabledByDefault: true
     hasUrls: true
-    template: entry
-    uriFormat: '{slug}'
+    template: test-section/_entry
+    uriFormat: 'test-section/{slug}'
 structure:
   maxLevels: null
-  uid: 7b78f58c-0592-402c-af61-5aaf8eecde82
+  uid: 5e241357-e7c5-4a33-ab81-92c7ce2cce3a
 type: structure

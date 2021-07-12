@@ -1,11 +1,9 @@
-contentColumnType: string
+contentColumnType: json
 fieldGroup: 14c4714f-0eaa-45a8-b373-20c65d99f6e1 # Common
-handle: test
+handle: testField
 instructions: ''
-name: test
+name: 'test field'
 searchable: false
-settings:
-  config: null
 translationKeyFormat: null
 translationMethod: none
 type: Developion\Core\fields\TestField

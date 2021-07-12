@@ -1,0 +1,14 @@
+enableVersioning: true
+handle: regularSection
+name: 'Regular Section'
+propagationMethod: all
+siteSettings:
+  33bc1f7c-cf69-4e2d-aa65-dfcc22722248: # Craft Dev
+    enabledByDefault: true
+    hasUrls: true
+    template: regular-section/_entry
+    uriFormat: 'regular-section/{slug}'
+structure:
+  maxLevels: null
+  uid: 29e40a40-13b2-49d3-9e85-7ba9b3b4dce7
+type: structure
